@@ -22,3 +22,4 @@
 5) Then, push the file edits onto git hub new branch using, "git push origin <name-of-branch>"
 6) Then on github, you can add a pull request, and merge and pull using that request.
 7) After merging on github, you can pull the changes by switching to master branch and using the line, "git pull"
+8) To delete branch, use code "git branch -d <name-of-branch>
