@@ -20,3 +20,5 @@
 3) To switch branches, use command, "git checkout <name-of-branch>"
 4) To look at difference between two branches. Go to master branch, then type "git diff <name-of-branch>"
 5) Then, push the file edits onto git hub new branch using, "git push origin <name-of-branch>"
+6) Then on github, you can add a pull request, and merge and pull using that request.
+7) After merging on github, you can pull the changes by switching to master branch and using the line, "git pull"
